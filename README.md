@@ -32,3 +32,8 @@ This project not only serves as a learning platform but also provides a useful t
 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/fb439a78-57b2-42ba-8175-f090d2058acc)
+
+![Image](https://github.com/user-attachments/assets/6419aaf2-3386-40d1-9e92-4bc0be46c25a)
+
+![Image](https://github.com/user-attachments/assets/8265a466-d258-4b2f-b528-d329ad397418)
